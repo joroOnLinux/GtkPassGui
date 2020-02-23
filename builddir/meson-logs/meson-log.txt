@@ -1,0 +1,42 @@
+Build started at 2020-02-04T09:13:23.003072
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.51.2
+Source dir: /home/jochen/sources/pass-gui
+Build dir: /home/jochen/sources/pass-gui/builddir
+Build type: native build
+Project name: pass-gui
+Project version: undefined
+C compiler for the host machine: cc (gcc 5.4.0 "cc (Ubuntu 5.4.0-6ubuntu1~16.04.12) 5.4.0 20160609")
+C++ compiler for the host machine: c++ (gcc 5.4.0 "c++ (Ubuntu 5.4.0-6ubuntu1~16.04.12) 5.4.0 20160609")
+Build machine cpu family: ppc
+Build machine cpu: ppc
+Dependency gtk+-3.0 found: YES (cached)
+Dependency gtkmm-3.0 found: YES (cached)
+Build targets in project: 1
+Found ninja-1.7.1 at /usr/bin/ninja
+Running compile:
+Working directory:  /tmp/tmpm2s__9y0
+Command line:  c++ /tmp/tmpm2s__9y0/testfile.cpp -o /tmp/tmpm2s__9y0/output.obj -pipe -D_FILE_OFFSET_BITS=64 -c -std=c++11 
+
+Code:
+ int i = static_cast<int>(0);
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler accepts -std=c++11: YES
+Running compile:
+Working directory:  /tmp/tmph6l3c_pp
+Command line:  c++ /tmp/tmph6l3c_pp/testfile.cpp -o /tmp/tmph6l3c_pp/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/powerpc-linux-gnu/5/
+programs: =/usr/lib/gcc/powerpc-linux-gnu/5/:/usr/lib/gcc/powerpc-linux-gnu/5/:/usr/lib/gcc/powerpc-linux-gnu/:/usr/lib/gcc/powerpc-linux-gnu/5/:/usr/lib/gcc/powerpc-linux-gnu/:/usr/lib/gcc/powerpc-linux-gnu/5/../../../../powerpc-linux-gnu/bin/powerpc-linux-gnu/5/:/usr/lib/gcc/powerpc-linux-gnu/5/../../../../powerpc-linux-gnu/bin/powerpc-linux-gnu/:/usr/lib/gcc/powerpc-linux-gnu/5/../../../../powerpc-linux-gnu/bin/
+libraries: =/usr/lib/gcc/powerpc-linux-gnu/5/:/usr/lib/gcc/powerpc-linux-gnu/5/../../../../powerpc-linux-gnu/lib/powerpc-linux-gnu/5/:/usr/lib/gcc/powerpc-linux-gnu/5/../../../../powerpc-linux-gnu/lib/powerpc-linux-gnu/:/usr/lib/gcc/powerpc-linux-gnu/5/../../../../powerpc-linux-gnu/lib/../lib/:/usr/lib/gcc/powerpc-linux-gnu/5/../../../powerpc-linux-gnu/5/:/usr/lib/gcc/powerpc-linux-gnu/5/../../../powerpc-linux-gnu/:/usr/lib/gcc/powerpc-linux-gnu/5/../../../../lib/:/lib/powerpc-linux-gnu/5/:/lib/powerpc-linux-gnu/:/lib/../lib/:/usr/lib/powerpc-linux-gnu/5/:/usr/lib/powerpc-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/powerpc-linux-gnu/5/../../../../powerpc-linux-gnu/lib/:/usr/lib/gcc/powerpc-linux-gnu/5/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 

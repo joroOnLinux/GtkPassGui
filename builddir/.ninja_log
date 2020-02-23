@@ -1,0 +1,6 @@
+# ninja log v5
+0	3995	0	build.ninja	98d7dbcd065772c2
+0	14208	0	pass-gui@exe/main.cc.o	494bdb48329a0b11
+16	3107	0	build.ninja	98d7dbcd065772c2
+34	14302	0	pass-gui@exe/examplewindow.cc.o	9eb32c882fcad8fb
+14311	17000	0	pass-gui	7939f5f69fd33b48
